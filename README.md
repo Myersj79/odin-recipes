@@ -1,0 +1,1 @@
+This is a project using my limited knowledge of HTML, GIT, and GITHUB. I want to complete the tasks setforth in The Odin Project curriculm without reviewing previous lesson.  I will only reference past information as a last resort.  
